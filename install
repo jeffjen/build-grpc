@@ -1,0 +1,4 @@
+#!/bin/bash
+set -e
+
+cp -r -v bins/opt/grpc_* bins/opt/protobuf/* /dist/
